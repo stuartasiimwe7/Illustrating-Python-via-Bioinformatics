@@ -1,0 +1,6 @@
+Python Version:
+3.8^
+
+Modules:
+biopython
+pandas
