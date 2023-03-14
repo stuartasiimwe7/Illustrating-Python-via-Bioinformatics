@@ -1,5 +1,9 @@
-# Illustrating Python via Bioinformatics
- Life is definitely digital. 
- The genetic code of all living organisms are represented by a long sequence of simple molecules called nucleotides, or bases, which makes up the Deoxyribonucleic acid, better known as DNA. 
- There are only four such nucleotides, and the entire genetic code of a human can be seen as a simple, though 3 billion long, string of the letters A, C, G, and T. Analyzing DNA data to gain increased biological understanding is much about searching in (long) strings for certain string patterns involving the letters A, C, G, and T. 
- This is an integral part of bioinformatics, a scientific discipline addressing the use of computers to search for, explore, and use information about genes, nucleic acids, and proteins.
+Welcome to 
+## "Illustrating Python via Bioinformatics" 
+In this project, we explore the fascinating world of bioinformatics, a scientific discipline that uses computers to analyze biological data.
+
+As life is digital, genetic information is stored in the form of a long sequence of nucleotides, which make up DNA. These nucleotides can be represented by only four letters: A, C, G, and T. Analyzing DNA data involves searching for specific string patterns in long sequences of these letters to gain a deeper understanding of biological processes.
+
+Bioinformatics has become an integral part of scientific research, particularly in the fields of genetics, genomics, and proteomics. In this project, we will use Python to illustrate how to perform bioinformatics analyses and visualize the results in an intuitive manner.
+
+By the end of this project, you will have gained hands-on experience in using Python to explore and analyze biological data, and be well-equipped to tackle bioinformatics challenges in your own research.
